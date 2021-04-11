@@ -3,13 +3,13 @@
 }
 
 body {
-  font-family: play;
+  font-family: poppins;
   background-color: white;
 }
 
 @font-face {
-  font-family: play;
-  src: url(font/Play-Regular.ttf);
+  font-family: poppins;
+  src: url(font/Poppins-Regular.ttf);
 }
 
 nav {
